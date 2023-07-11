@@ -1,5 +1,5 @@
 {
-    "name": ["wave-framework/wave "],
+    "name": ["symfony/amirjoon"],
     "type": "symfony-bundle",
     "license": "GPL-3.0-or-later",
     "minimum-stability": "stable",
